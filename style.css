@@ -1,0 +1,12 @@
+html
+
+body{
+    background-color: rgb(52, 250, 95);
+}
+
+#headding{
+    font-size: 40px;
+    font-style: italic;
+    padding-top: 20px;
+}
+
